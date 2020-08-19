@@ -2078,7 +2078,6 @@ var SEMICOLON = SEMICOLON || {};
 			SEMICOLON.widget.textRotater();
 			SEMICOLON.widget.carousel();
 			SEMICOLON.widget.linkScroll();
-			SEMICOLON.widget.contactForm();
 			SEMICOLON.widget.subscription();
 			SEMICOLON.widget.quickContact();
 			SEMICOLON.widget.stickySidebar();

@@ -1,0 +1,6 @@
+.form-group.has-error .sm-form-control{
+    border-color: #dc3545;
+}
+.form-group.has-success .sm-form-control{
+    border-color: #28a745;
+}
